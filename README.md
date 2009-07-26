@@ -155,3 +155,10 @@ That's all. You can see your original stereogram.
 - You can use original sentence in the `sentence.txt`.
 
 Have fun!
+
+
+Reference
+---------
+This is the original site of the above Sentence Stereogram.
+
+- [World First? Binocular Vision, 3D Blog Entry.](http://satoshi.blogs.com/life/2005/08/post_4.html) (in Japanese)
